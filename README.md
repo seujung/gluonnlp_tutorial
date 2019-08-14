@@ -5,7 +5,7 @@
 1. MXNet Basic
       - [Slide](slide/1.MXNet_Basic.pdf) 
       - Code
-       - [Intro to NDArray](code/)
+       - [Intro to NDArray](https://colab.research.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/1-1.Intro_to_NDArray.ipynb)
        - Basic Deep Learning Model(code/)
 
 
