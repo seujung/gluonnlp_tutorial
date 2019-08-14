@@ -12,4 +12,5 @@
 2. Embedding
     - [Slide](slide/2.Word_Embedding.pdf) 
     - Code
-      - [Word Embedding]((https://colab.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/2.Word_Embedding.ipynb)
+      - [Word Embedding](https://colab.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/2.Word_embedding.ipynb)
+
