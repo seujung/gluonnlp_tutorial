@@ -5,11 +5,11 @@
 1. MXNet Basic
       - [Slide](slide/1.MXNet_Basic.pdf) 
       - Code
-       [Intro to NDArray](https://colab.research.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/1-1.Intro_to_NDArray.ipynb)
+        - [Intro to NDArray](https://colab.research.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/1-1.Intro_to_NDArray.ipynb)
+        - [Basic Deep Learning Model](https://colab.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/1-2.Basic_Deeplearning_Model.ipynb)
        
-       - [Basic Deep Learning Model] (https://colab.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/1-2.Basic_Deeplearning_Model.ipynb)
-
 
 2. Embedding
     - [Slide](slide/2.Word_Embedding.pdf) 
-    - Code :
+    - Code
+      - [Word Embedding]((https://colab.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/2.Word_Embedding.ipynb)
