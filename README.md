@@ -21,3 +21,10 @@
       - Entity Tagging [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/3_2_entity_tagging_pycon2019.ipynb)
       - NSMC with BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seujung/gluonnlp_tutorial/blob/master/code/3_3_naver_review_classifications_gluon_bert.ipynb)
 
+---
+
+## [Reference]
+- GluonNLP Tutorial (KDD 2018) : https://kdd18.mxnet.io/
+- JSALT 2019 NLP Tutorial: https://jsalt19.mxnet.io/
+- Dive into Deep Learning (NLP) : https://www.d2l.ai/chapter_natural-language-processing/index.html
+- GluonNLP Official Tutorial : https://gluon-nlp.mxnet.io/examples/index.html
